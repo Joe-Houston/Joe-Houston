@@ -2,9 +2,6 @@
 
 I'm a problem solver, how can I help you?
 
-<!--
-**Joe-Houston/Joe-Houston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Here's a little bit about myself
 
 - 🔭 I’m currently working on ... I'm currently in the process of pivoting my career into the tech world. I have not quite found my niche yet but I am about to begin my first project outside of the codecademy course I started a couple months ago. I will be working with my friend Thomas who has turned out to be somewhat of a mentor during my transition, he is web developer focused on front-end engineering. I will keep everyone updated as the project progresses and share what I can with the public.  Needless to say, I am very excited to begin this project as it will allow me to apply many of the techniques I have learned through the codecademy web developement course.
